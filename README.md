@@ -2,7 +2,7 @@
 
 ### A Journey across the Theatres of Knowledge
 
-#### _A poetic–philosophical odyssey through student dependency, institutional theatre, accreditation’s seal, the crack of doubt, and the city of free thinkers_
+#### _A poetic–philosophical odyssey through student dependency, institutional theatre, accreditation’s seal, the crack of doubt, and the city of free thinkers_
 
 ![alt text](https://github.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers/blob/main/manifesto_of_free_thinker.jpg?raw=true)
 
@@ -22,7 +22,7 @@ The cycle culminates in a manifesto of unfettered thought. It calls for a city o
 
 ### Author’s Note on Publication
 
-This work is published as two independent but parallel versions — one in English, one in French — to test and exemplify epistemic plurality across linguistic domains.
+This work is published as two independent but parallel versions — one in English, one in [French](https://github.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs) — to test and exemplify epistemic plurality across linguistic domains.
 
 ### Keywords
 
