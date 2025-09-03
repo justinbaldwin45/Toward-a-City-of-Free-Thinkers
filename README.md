@@ -4,11 +4,9 @@
 
 #### _A poetic–philosophical odyssey through student dependency, institutional theatre, accreditation’s seal, the crack of doubt, and the city of free thinkers_
 
-![alt text](https://github.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers/blob/main/manifesto_of_free_thinker.jpg?raw=true)
-
 by Peter Kahl, 3 September 2025
 
----
+![alt text](https://github.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers/blob/main/manifesto_of_free_thinker.jpg?raw=true)
 
 ### Abstract
 
