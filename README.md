@@ -24,6 +24,14 @@ The cycle culminates in a manifesto of unfettered thought. It calls for a city o
 
 This work is published as two independent but parallel versions — one in English, one in [French](https://github.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs) — to test and exemplify epistemic plurality across linguistic domains.
 
+_Toward a City of Free Thinkers: A Journey across the Theatres of Knowledge_ (English) and [_Vers une cité des libres penseurs : Une odyssée à travers les théâtres du savoir_](https://github.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs) (French) are more than parallel publications. They are acts of epistemic freedom in themselves.
+
+This work resists the usual boundaries of philosophy. It is not just a treatise or a collection of poems, but a multimodal inquiry — poetry, essay, and image speaking as equal registers of thought. To think freely is not only to critique institutions of knowledge, accreditation, and silence, but to refuse the constraint of a single idiom.
+
+Publishing in English situates the project within debates on epistemic injustice, fiduciary duties, and epistemic democracy. Publishing in French places it within the lineage of Foucault, Bourdieu, Derrida, and Fanon — traditions that have long interrogated power, silence, and emancipation. Together, they insist that critique must be polyphonic, not confined to one linguistic domain.
+
+This bilingual manifesto enacts what it argues: that knowledge should not be sealed, owned, or monopolised, but shared as fiduciary trust. It invites readers to doubt, to refuse, and to imagine a _city of free thinkers_ where truth circulates as common ground.
+
 ### Keywords
 
 epistemic clientelism, epistemic freedom, fiduciary openness, epistemocracy, epistemic injustice, fiduciary duties, epistemic plurality, epistemic agency, multimodal philosophy, democratic epistemology, institutional critique, higher education, silence, accreditation, emancipation, manifesto
