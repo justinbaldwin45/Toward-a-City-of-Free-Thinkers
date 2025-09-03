@@ -32,7 +32,7 @@ epistemic clientelism, epistemic freedom, fiduciary openness, epistemocracy, epi
 
 ### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
 
-- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers/master/Kahl_P_Toward_a_City_of_Free_Thinkers_03-SEP-2025.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers/master/Kahl_P_Toward_a_City_of_Free_Thinkers_03-SEP-2025.pdf)
 
 ### Cite this work:
 
