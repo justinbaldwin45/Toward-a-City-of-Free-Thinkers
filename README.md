@@ -2,7 +2,7 @@
 
 ### A Journey across the Theatres of Knowledge
 
-#### _A poetic–philosophical odyssey through student dependency, institutional theatre, accreditation’s seal, the crack of doubt, and the city of free thinkers_
+#### _A multimodal manifesto — poetry, essay, image — that rejects epistemic clientelism and affirms that emancipation begins with doubt, silence, and refusal._
 
 by Peter Kahl, 3 September 2025
 
